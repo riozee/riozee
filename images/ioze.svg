@@ -1,7 +1,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" viewBox="0 0 440 100">
-    <path d="M 30 0 L 30 50 L 100 37.5 L 30 25 L 100 12.5 L 30 0 M 260 5 L 330 25 L 260 45 M 330 55 L 260 75 L 330 95 L 330 55" fill="#00f" opacity="75%" />
-    <path d="M 0 0 L 0 100 L 30 100 L 30 0 M 110 0 L 110 100 L 140 100 L 140 0 L 110 0" fill="#0f0" opacity="75%" />
-    <circle cx="75" cy="75" r="25" fill="#f00" opacity="75%" />
-    <circle cx="200" cy="50" r="50" fill="#f00" opacity="75%" />
-    <path d="M 440 50 A 50 50 0 1 0 390 100 L 390 50 Z" fill="#ff0" opacity="50%" />
+    <path d="M 30 0 L 30 50 L 100 37.5 L 30 25 L 100 12.5 L 30 0 M 260 5 L 330 25 L 260 45 M 330 55 L 260 75 L 330 95 L 330 55" fill="#0000ff" opacity="75%" />
+    <path d="M 0 0 L 0 100 L 30 100 L 30 0 M 110 0 L 110 100 L 140 100 L 140 0 L 110 0" fill="#00ff00" opacity="75%" />
+    <circle cx="75" cy="75" r="25" fill="#ff0000" opacity="75%" />
+    <circle cx="200" cy="50" r="50" fill="#ff0000" opacity="75%" />
+    <path d="M 440 50 A 50 50 0 1 0 390 100 L 390 50 Z" fill="#ffff00" opacity="50%" />
 </svg>
