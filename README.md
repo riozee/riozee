@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/ioze.svg" alt="Rioze!!!!!">
+<img src="./images/ioze.svg" alt="Rioze!!!!!" width="95%">
 
 &nbsp;
 
