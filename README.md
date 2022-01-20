@@ -6,5 +6,5 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285158231152)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cietstrioze@gmail.com)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=riozec&bg_color=00ff0040&border_radius=0&hide_border=true&disable_animations=true&show_icons=true&custom_title=My%20GitHub%20stats)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riozec&bg_color=00ffff40&border_radius=0&hide_border=true&layout=compact&custom_title=My%20top%20languages)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=riozec&border_radius=0&hide_border=true&disable_animations=true&show_icons=true&custom_title=My%20GitHub%20stats)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riozec&border_radius=0&hide_border=true&layout=compact&custom_title=My%20top%20languages)
