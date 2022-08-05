@@ -5,8 +5,8 @@
 &nbsp;
 
 [![Reach me](https://img.shields.io/badge/Reach%20me%20at%20-FFF?&style=for-the-badge&)]()
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riozec)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285158231152)
+[![Telegram](https://img.shields.io/badge/@riozec-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riozec)
+[![Discord](https://img.shields.io/badge/Rioze%231425-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781851252471365632)
 
 &nbsp;
 
