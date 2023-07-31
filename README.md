@@ -14,7 +14,7 @@ I'm just a student who loves to code.
 - Typescript
 - Some basic Python and bash
 - Can speak English, Indonesian, Japanese, and Toki Pona ✨
-- Can read Standard Galactic Alphabet
+- Can read Standard Galactic Alphabet 🤖
 
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riozee&border_radius=0&hide_border=true&layout=compact&custom_title=My%20top%20languages)
 
@@ -22,4 +22,4 @@ I'm just a student who loves to code.
 - [miki-whatsapp-bot](https://github.com/riozee/miki-whatsapp-bot)
 
 ## Contact Me
-Feel free to reach out to me at [Telegram](https://t.me/riozee).
+[Telegram](https://t.me/riozee)
