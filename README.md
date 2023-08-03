@@ -1,6 +1,8 @@
-<img src="./images/ioze.svg" alt="Rioze!!!!!" width="75%" style="background-color: none !important; box-shadow: 0px 0px 13px #888888;">
+<img src="./images/ioze.svg" alt="Rioze!!!!!" width="50%" style="background-color: none !important; box-shadow: 0px 0px 13px #888888;">
 
 # Hi there! I am using GitHub 👋
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ## About Me
 I'm just a student who loves to code. 
