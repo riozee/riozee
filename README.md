@@ -2,7 +2,11 @@
 
 # Hi there! I am using GitHub 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=riozee&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Friozee&query=%24.stars&style=for-the-badge&logo=github&label=GITHUB%20STARS)
+![GitHub Forks](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Friozee&query=%24.forks&style=for-the-badge&logo=github&label=GITHUB%20FORKS)
+
+
 
 ## About Me
 I'm just a student who loves to code. 
